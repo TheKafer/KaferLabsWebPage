@@ -145,28 +145,28 @@ const es = {
     footer_note: 'Equipo pequeño. Gran resultado. Cada proyecto recibe toda nuestra atención.',
     members: [
       {
-        name: 'Kevin Ibarra',
+        name: 'Kevin',
         role: 'Ingeniero QA & Desarrollador Full Stack',
         certBadge: 'AWS Certified',
         bio: 'Garantiza que cada release sea impecable. Kevin combina experiencia profunda en QA con habilidades de full-stack—cubriendo pruebas automatizadas, pipelines de CI y garantía de calidad end-to-end en web y móvil.',
         tag: 'QA · Full Stack',
       },
       {
-        name: 'Santiago González',
+        name: 'Santiago',
         role: 'Desarrollador Backend & Ingeniero de IA',
         certBadge: 'Especialista en IA',
         bio: 'Diseña los sistemas que trabajan detrás de escena. Santiago construye APIs robustas y escalables e integra capacidades de IA/ML que hacen los productos más inteligentes—desde pipelines de LLMs hasta procesamiento de datos en tiempo real.',
         tag: 'Backend · IA',
       },
       {
-        name: 'Luis Díaz',
+        name: 'Luis',
         role: 'Desarrollador Frontend & Diseñador UI/UX',
         certBadge: 'Experto UI/UX',
         bio: 'Crea interfaces que los usuarios aman. Luis conecta diseño e ingeniería—convirtiendo requisitos complejos en experiencias fluidas, accesibles y pixel-perfect en web y móvil.',
         tag: 'Frontend · Diseño',
       },
       {
-        name: 'Santiago Botero',
+        name: 'Santiago',
         role: 'Desarrollador Móvil & Ingeniero de Seguridad',
         certBadge: 'Experto en Seguridad',
         bio: 'Construye experiencias móviles con seguridad integrada desde el primer día. Santiago entrega apps de alto rendimiento para iOS y Android asegurando que cada capa del stack esté protegida contra amenazas reales.',
