@@ -195,14 +195,16 @@ const es = {
     message_label: 'Cuéntanos sobre tu proyecto',
     message_placeholder: 'Necesitamos una app móvil que...',
     submit: 'Enviar mensaje',
+    sending: 'Enviando…',
     reply: 'Respuesta en menos de 24h',
     success_title: '¡Mensaje recibido!',
     success_sub: 'Gracias por contactarnos. Revisaremos tu mensaje y te responderemos en menos de 24 horas.',
     success_reset: 'Enviar otro mensaje',
+    error: 'No pudimos enviar tu mensaje. Escríbenos directo a',
   },
   footer: {
     tagline: 'Estudio de ingeniería de software. Construimos productos que resuelven problemas reales.',
-    built: 'Construido con React · Desplegado en AWS',
+    built: 'Construido con React · Desplegado en GitHub Pages',
     rights: 'Todos los derechos reservados.',
   },
   whatsapp: {

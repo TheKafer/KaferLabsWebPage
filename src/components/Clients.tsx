@@ -10,7 +10,6 @@ export default function Clients() {
 
   const stats = t('clients.stats', { returnObjects: true }) as Array<{ value: string; label: string }>
   const testimonials = t('clients.testimonials', { returnObjects: true }) as Array<{ quote: string; name: string; role: string }>
-  const industries = t('clients.industries', { returnObjects: true }) as string[]
 
   return (
     <section id="clients" className="py-28 px-6 relative">

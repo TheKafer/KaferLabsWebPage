@@ -1,10 +1,11 @@
 import { useTranslation } from 'react-i18next'
 import { GitBranch, Globe, Mail } from 'lucide-react'
+import { SALES_EMAIL } from '../lib/contact'
 
 const socials = [
   { icon: <GitBranch size={16} />, href: '#', label: 'GitHub' },
   { icon: <Globe size={16} />, href: '#', label: 'LinkedIn' },
-  { icon: <Mail size={16} />, href: 'mailto:hello@kaferlabs.com', label: 'Email' },
+  { icon: <Mail size={16} />, href: `mailto:${SALES_EMAIL}`, label: 'Email' },
 ]
 
 export default function Footer() {

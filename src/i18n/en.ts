@@ -195,14 +195,16 @@ const en = {
     message_label: 'Tell us about your project',
     message_placeholder: 'We need a mobile app that...',
     submit: 'Send message',
+    sending: 'Sending…',
     reply: 'Reply within 24h',
     success_title: 'Message received!',
     success_sub: "Thanks for reaching out. We'll review your message and get back to you within 24 hours.",
     success_reset: 'Send another message',
+    error: "Couldn't send your message. Email us directly at",
   },
   footer: {
     tagline: 'Software engineering studio. We build products that solve real problems.',
-    built: 'Built with React · Deployed on AWS',
+    built: 'Built with React · Deployed on GitHub Pages',
     rights: 'All rights reserved.',
   },
   whatsapp: {
